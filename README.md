@@ -12,16 +12,24 @@ I build systems where data models, workflows, and application layers need to wor
 
 My background spans analytics, operations research, warehousing, and internal product delivery. More recently, I have been building full-stack systems and spending more time on AI runtime and inference tradeoffs in production-style workflows.
 
+Site: [prithivraj.xyz](https://prithivraj.xyz)
+
 ## Current Work
 
 - Building streaming and simulation-heavy systems such as [`openpipe`](https://github.com/prithivrajmu/openpipe)
 - Shipping operational software and internal tools
 - Learning AI inference patterns by building real applications instead of isolated demos
 
-## Selected Repos
+## Featured Work
 
 - [`openpipe`](https://github.com/prithivrajmu/openpipe)  
   Streaming data playground for simulated devices, Kafka, Flink, and TimescaleDB.
+
+- [`pixel-desktop-remastered`](https://github.com/prithivrajmu/pixel-desktop-remastered)  
+  Windows 95-inspired site built in React and TypeScript.
+
+- [`pdfinvoicer`](https://github.com/prithivrajmu/pdfinvoicer)  
+  Offline-first GST invoice generator with local storage, backup support, and PWA behavior.
 
 - [`extract-data-from-pdf`](https://github.com/prithivrajmu/extract-data-from-pdf)  
   Document extraction toolkit for OCR, structured fields, and multi-backend PDF workflows.
@@ -40,7 +48,5 @@ My background spans analytics, operations research, warehousing, and internal pr
 - simulation, optimization, internal tools
 
 ## Elsewhere
-
-- Site: [prithivraj.xyz](https://prithivraj.xyz)
 - LinkedIn: [linkedin.com/in/prithivrajmu](https://www.linkedin.com/in/prithivrajmu)
 - Email: [prithivrajmu@gmail.com](mailto:prithivrajmu@gmail.com)
