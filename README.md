@@ -4,10 +4,13 @@
 
 ```text
 C:\PRITHIV> whoami
-senior data engineer -> data architect
+data architect
 
-C:\PRITHIV> mode
-building systems where data models, workflows, and software have to agree
+C:\PRITHIV> focus
+data platforms + internal software + ai-enabled systems
+
+C:\PRITHIV> bias
+build the system, not just the analysis
 ```
 
 [![Site](https://img.shields.io/badge/site-prithivraj.xyz-0f172a?style=for-the-badge)](https://prithivraj.xyz)
@@ -18,85 +21,54 @@ building systems where data models, workflows, and software have to agree
 
 ---
 
-## Current State
+## What I Work On
 
-I started in analytics, operations research, and simulation-heavy work.  
-Now I spend most of my time building internal systems, data platforms, and full-stack applications where the warehouse, business workflow, and product surface need to be designed together.
+I started in analytics, simulation, and operations research.  
+Now I build systems where the warehouse, the workflow, and the application layer have to hold together as one operating surface.
 
-Lately, a lot of that work has been pulling me deeper into event streams, AI runtime tradeoffs, and practical inference patterns.
+That has pulled my work toward:
 
-## Right Now
+- data architecture
+- internal platforms
+- event-driven systems
+- full-stack product delivery
+- practical AI runtime and inference tradeoffs
 
-```text
-openpipe               -> kafka + flink + timescaledb + simulated devices
-pixel-desktop-remastered -> windows 95 site built as an interactive system
-pdfinvoicer            -> offline-first gst invoicing app
-extract-data-from-pdf  -> document extraction and ocr workflows
-```
+## Selected Work
 
-## Featured Repositories
-
-| Repo | What It Is | Stack |
+| Repo | Why It Matters | Stack |
 | --- | --- | --- |
-| [`openpipe`](https://github.com/prithivrajmu/openpipe) | Streaming data playground for simulated devices, Kafka, Flink, and TimescaleDB. | Python, Kafka, PyFlink, TimescaleDB, Docker |
-| [`pixel-desktop-remastered`](https://github.com/prithivrajmu/pixel-desktop-remastered) | Windows 95-inspired site built as an interactive desktop experience. | React, TypeScript, Tailwind CSS |
-| [`pdfinvoicer`](https://github.com/prithivrajmu/pdfinvoicer) | Offline-first GST invoice generator with local-first storage and PWA behavior. | React, TypeScript, IndexedDB, Firebase |
-| [`extract-data-from-pdf`](https://github.com/prithivrajmu/extract-data-from-pdf) | Document extraction toolkit for OCR, structured fields, and multi-backend PDF workflows. | Python, OCR, Streamlit |
-| [`chennai_expansion_sim`](https://github.com/prithivrajmu/chennai_expansion_sim) | Urban growth simulator for Chennai using a hybrid CA + ABM approach. | React, Flask, NumPy, Leaflet |
-| [`polestar-sim`](https://github.com/prithivrajmu/polestar-sim) | Distribution center operations simulation model built in Python. | Python, simulation |
+| [`openpipe`](https://github.com/prithivrajmu/openpipe) | Streaming systems playground with simulated devices, Kafka, Flink, and TimescaleDB in one local platform. | Python, Kafka, PyFlink, TimescaleDB, Docker |
+| [`pixel-desktop-remastered`](https://github.com/prithivrajmu/pixel-desktop-remastered) | Personal site built as a Windows 95 shell with a cleaner reading mode, generated metadata, and project pages. | React, TypeScript, Tailwind CSS, SEO |
+| [`pdfinvoicer`](https://github.com/prithivrajmu/pdfinvoicer) | Offline-first GST invoicing system designed around privacy, local durability, and low operating overhead. | React, TypeScript, IndexedDB, Firebase, PWA |
+| [`extract-data-from-pdf`](https://github.com/prithivrajmu/extract-data-from-pdf) | Document extraction workflow for OCR, structured fields, and reusable PDF processing pipelines. | Python, OCR, Streamlit |
+| [`chennai_expansion_sim`](https://github.com/prithivrajmu/chennai_expansion_sim) | Urban growth simulator for Chennai with spatial exploration and hybrid modeling. | React, Flask, NumPy, Leaflet |
+| [`polestar-sim`](https://github.com/prithivrajmu/polestar-sim) | Operations simulation work focused on distribution-center behavior and planning logic. | Python, simulation |
 
-## Working Areas
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-### Data
-
-- Python
-- SQL
-- dbt
-- warehousing
-- data modeling
-- timeseries systems
-
-  </td>
-  <td valign="top" width="33%">
-
-### Applications
-
-- React
-- TypeScript
-- Supabase
-- PostgreSQL
-- internal tools
-- product-minded systems
-
-  </td>
-  <td valign="top" width="33%">
-
-### Systems
-
-- Kafka
-- Flink
-- simulation
-- optimization
-- workflow design
-- applied AI
-
-  </td>
-  </tr>
-</table>
-
-## Build Preference
+## Current Direction
 
 ```text
-not dashboards without decisions
-not features without workflow fit
-not ai demos without runtime constraints
+openpipe                  -> streaming systems and observability
+pixel-desktop-remastered  -> frontend systems and product surface
+pdfinvoicer               -> offline product architecture
+ai work                   -> inference, latency, reliability, and runtime tradeoffs
 ```
 
-I prefer systems that become operationally useful, not just technically interesting.
+## Build Style
+
+```text
+not dashboards without operational use
+not software without workflow fit
+not ai features without runtime discipline
+```
+
+## Working Set
+
+| Area | Tools |
+| --- | --- |
+| Data | Python, SQL, dbt, warehousing, modeling, timeseries systems |
+| Applications | React, TypeScript, Supabase, PostgreSQL, internal tools |
+| Systems | Kafka, Flink, simulation, optimization, applied AI |
 
 ## Elsewhere
 
