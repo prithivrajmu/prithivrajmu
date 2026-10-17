@@ -4,7 +4,7 @@
 
 ```text
 C:\PRITHIV> whoami
-data architect
+principal engineer + data architect
 
 C:\PRITHIV> focus
 data platforms + internal software + ai-enabled systems
@@ -17,9 +17,30 @@ build the system, not just the analysis
 [![LinkedIn](https://img.shields.io/badge/linkedin-prithivrajmu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithivrajmu)
 [![Email](https://img.shields.io/badge/email-prithivrajmu%40gmail.com-1f2937?style=for-the-badge)](mailto:prithivrajmu@gmail.com)
 
+
+```text
+   ┌──────────────────────────────────────────┐
+   │ > reading 4,000 lines of diff...         │
+   │ > looks fine. probably.                  │
+   │ > approve? [Y/n] _                       │
+   └────────────────────┬─────────────────────┘
+                     ___│___
+        (o_o)       /_______\
+       <|   |>   ┌──────────────────────────────┐
+        /   \    │ q w e r t y u i o p  [ENTER] │
+                 └──────────────────────────────┘
+        engineer, one keyboard, one screen, zero fear
+```
+
 </div>
 
 ---
+
+## Now
+
+Principal Engineer at NewPage, working as a Pfizer contractor. I lead engineering on an analytics product: live warehouse data, faster pages, better monitoring, and clear access control. I joined as Staff Engineer in June 2026 and moved up in October 2026.
+
+Before that, I was Technical Lead Engineer at Headwind Labs (March 2023 to June 2026).
 
 ## What I Work On
 
