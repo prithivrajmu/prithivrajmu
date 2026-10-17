@@ -38,19 +38,40 @@ That has pulled my work toward:
 
 | Repo | Why It Matters | Stack |
 | --- | --- | --- |
+| [`elephant`](https://github.com/prithivrajmu/elephant) | Persistent, source-backed memory for coding agents: hooks, MCP server, CLI and dashboard. Public beta. | Go, MCP |
+| [`performance-ratchet`](https://github.com/prithivrajmu/performance-ratchet) | Codex and Claude Code skill for evidence-driven performance work and regression ratchets. | Agent skill |
+| [`claude-docs-viewer`](https://github.com/prithivrajmu/claude-docs-viewer) | Claude Code mod that adds a `/docs` pane to browse a repo's Markdown docs. | TypeScript |
+| [`zeus`](https://github.com/prithivrajmu/zeus) + [`maia`](https://github.com/prithivrajmu/maia) | Pluggable synthetic data generator, and the MCP server that serves its datasets to an MCP client. | Python, MCP |
+| [`ream`](https://github.com/prithivrajmu/ream) | Local task time tracker with notes, as a desktop app. | Electron, TypeScript |
 | [`openpipe`](https://github.com/prithivrajmu/openpipe) | Streaming systems playground with simulated devices, Kafka, Flink, and TimescaleDB in one local platform. | Python, Kafka, PyFlink, TimescaleDB, Docker |
-| [`pixel-desktop-remastered`](https://github.com/prithivrajmu/pixel-desktop-remastered) | Personal site built as a Windows 95 shell with a cleaner reading mode, generated metadata, and project pages. | React, TypeScript, Tailwind CSS, SEO |
 | [`pdfinvoicer`](https://github.com/prithivrajmu/pdfinvoicer) | Offline-first GST invoicing system designed around privacy, local durability, and low operating overhead. | React, TypeScript, IndexedDB, Firebase, PWA |
 | [`extract-data-from-pdf`](https://github.com/prithivrajmu/extract-data-from-pdf) | Document extraction workflow for OCR, structured fields, and reusable PDF processing pipelines. | Python, OCR, Streamlit |
-| [`chennai_expansion_sim`](https://github.com/prithivrajmu/chennai_expansion_sim) | Urban growth simulator for Chennai with spatial exploration and hybrid modeling. | React, Flask, NumPy, Leaflet |
-| [`polestar-sim`](https://github.com/prithivrajmu/polestar-sim) | Operations simulation work focused on distribution-center behavior and planning logic. | Python, simulation |
+| [`city_expansion_sim`](https://github.com/prithivrajmu/city_expansion_sim) | Urban growth simulator for Chennai with spatial exploration and hybrid modeling. | React, Flask, NumPy, Leaflet |
+| [`pixel-desktop-remastered`](https://github.com/prithivrajmu/pixel-desktop-remastered) | Personal site built as a Windows 95 shell with a cleaner reading mode. | React, TypeScript, Tailwind CSS |
+| [`asd-ste100`](https://github.com/prithivrajmu/asd-ste100) | Agent skill that explains things in ASD-STE100 Simplified Technical English. | Agent skill |
+
+## Work Under Development (private)
+
+Private repos, not open for browsing yet. What they are:
+
+| Project | What it is |
+| --- | --- |
+| `argos` | macOS menu-bar companion that watches your screen while you learn a new system and flags the numbers you should not trust. |
+| `odysseus` | ELT pipeline built natively on Snowflake Dynamic Tables, with no dbt or external orchestrator. Pairs with `zeus`. |
+| `bookr` | Property CRM joined with double-entry accounting: quotes, bookings, payments, ledgers, reports. |
+| `munday` | Mobile-first tracker for site visitors, leads, plot inventory, and bookings. |
+| `kaream-ai` | AI clinical assistant: live transcription and SOAP note generation. |
+| `inventreesync_app` | Inventory management web app: stock, purchase orders, reporting. |
+| `valai` | Front-end decision-support prototype for consultancy staffing and cover-vs-hire calls. |
+| `doc_reader` | Land registration document reader for Tamil and English. |
+| `polaris-realm`, `nalamsite` | Company and property websites. |
 
 ## Current Direction
 
 ```text
-openpipe                  -> streaming systems and observability
-pixel-desktop-remastered  -> frontend systems and product surface
-pdfinvoicer               -> offline product architecture
+elephant                  -> memory and tooling for coding agents
+openpipe / odysseus       -> streaming and warehouse-native pipelines
+argos                     -> AI that helps people trust data
 ai work                   -> inference, latency, reliability, and runtime tradeoffs
 ```
 
